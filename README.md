@@ -1,2 +1,2 @@
 # SSMS
-SQL Server Management Studio Tutorial 
+SQL Server Management Studio troubleshoot Tutorial 
